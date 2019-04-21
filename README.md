@@ -1,5 +1,5 @@
-Docker LAMP apache + php 7
-==========================
+Docker LAMP nginx + php-fpm + mysql
+===================================
 
 ## Install Docker and docker-compose
 
